@@ -1,16 +1,17 @@
-## Hi there 👋
+[![Bobbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobboBoi&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobboBoi&theme=transparent&layout=donut&hide_border=true&hide=html,php,blade,hack,css)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**BobboBoi/BobboBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It a me I do da godot stuff.
+This is my school account *(very cool wow!)*
 
-Here are some ideas to get you started:
+## Cool stuff:
+- Made dumb music player in godot
+- Made terraria in godot
+- Did stuff for funny knight game
+- Uuhhhhh
+- balls
+- ye
+- bye
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**WII BALL**

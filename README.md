@@ -1,5 +1,4 @@
 It a me I do da godot stuff.<br>
-This is my school account *(very cool wow!)*
 
 ## Cool stuff:
 [![Bobbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobboBoi&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -13,5 +12,3 @@ This is my school account *(very cool wow!)*
 - balls
 - ye
 - bye
-## More different cool stuff:
-**WII BALL**
